@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/s/bach/j/under/isaac13/HW6/Board.h
+string
+-
+vector
+-
+Rule.h
+/s/bach/j/under/isaac13/HW6/Rule.h
+
+/s/bach/j/under/isaac13/HW6/Rule.h
+string
+-
+vector
+-
+
+/s/bach/j/under/isaac13/HW6/test.cc
+Board.h
+/s/bach/j/under/isaac13/HW6/Board.h
+Rule.h
+/s/bach/j/under/isaac13/HW6/Rule.h
+Board.h
+/s/bach/j/under/isaac13/HW6/Board.h
+Rule.h
+/s/bach/j/under/isaac13/HW6/Rule.h
+iostream
+-
+cassert
+-
+
